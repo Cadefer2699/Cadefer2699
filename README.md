@@ -6,6 +6,8 @@
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
   
 <img src="https://storage.googleapis.com/cms-storage-bucket/a9d6ce81aee44ae017ee.png" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
