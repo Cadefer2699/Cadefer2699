@@ -10,6 +10,7 @@ Desarrollador de aplicaciones móviles apasionado por la innovación y siempre e
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <div>
     <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter" style="display: inline-block;"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/android-os.png" alt="android-os"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="display: inline-block;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="display: inline-block;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="display: inline-block;"/>
