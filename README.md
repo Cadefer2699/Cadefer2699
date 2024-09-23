@@ -1,7 +1,5 @@
 <h1 align="center">Hola 👋, Soy Carlos Delgado</h1>
 
-📱 Actualmente estoy desarrollando **Aplicaciones Móviles Full-Stack**
-
 <p>
 Desarrollador de aplicaciones móviles apasionado por la innovación y siempre en busca de nuevos desafíos. Mi curiosidad insaciable me lleva a explorar constantemente nuevas tecnologías y enfoques creativos para llevar proyectos al siguiente nivel.
 </p>
