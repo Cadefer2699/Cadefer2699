@@ -22,8 +22,7 @@ Desarrollador de aplicaciones móviles apasionado por la innovación y siempre e
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="display: inline-block;"/>
 </div>
 
-Illustration by <a href="https://icons8.com/illustrations/author/lZpGtGw5182N">Elisabet Guba</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
-
+<a href="https://icons8.com/illustrations/author/lZpGtGw5182N"></a> <a href="https://icons8.com/illustrations"></a>
 
 <h3 align="left">Contáctate conmigo:</h3>
 <p align="left">
