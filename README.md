@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Carlos Delgado</h1>
+<h1 align="center">Hola 👋 Soy Carlos Delgado</h1>
 
 <p>
 Desarrollador de aplicaciones móviles apasionado por la innovación y siempre en busca de nuevos desafíos. Mi curiosidad insaciable me lleva a explorar constantemente nuevas tecnologías y enfoques creativos para llevar proyectos al siguiente nivel.
@@ -22,9 +22,7 @@ Desarrollador de aplicaciones móviles apasionado por la innovación y siempre e
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="display: inline-block;"/>
 </div>
 
-
-
-
+Illustration by <a href="https://icons8.com/illustrations/author/lZpGtGw5182N">Elisabet Guba</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
 
 
 <h3 align="left">Contáctate conmigo:</h3>
